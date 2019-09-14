@@ -1,5 +1,3 @@
-# Resume
-
 ## Piotr Chyrych
 
 ## Contacts
@@ -11,14 +9,15 @@
 
 ## Summary
 
-My goal is  become as a person who can work in a team and solve complex problems connected with programming and web development . I want to improve my English level and want to learn  logical thinking and upgrade my programming skills with the help of this courses  and later work i hope so. I learn with enthusiasm and always bring the work to the end.
+My goal is  become as a person who can work in a team and solve complex problems connected with programming and web development. I want to improve my English level and want to learn  logical thinking and upgrade my programming skills with the help of this courses  and later work i hope so. I learn with enthusiasm and always bring the work to the end.
 
 ## Skills
 
-### Languages: 
-1. Java;
-2. C# beginner;
-3. C++ beginner.
+### Languages:
+1. JavaScript; 
+2. Java;
+3. C# beginner;
+4. C++ beginner.
 
 ### Other technologies: 
 1. HTML;
@@ -36,7 +35,7 @@ My main experience is projects on Codecademy and HTMLacademy such as Fashion Blo
 
 ## English level
 * B1 (Intermediate English) 
-* English at school from first  to last class
-* English courses at university for for mounth
+* English at school from first to last class
+* Technical English at university for two years and additionally at courses for a month
 * [https://lingualeo.com/ru/profile](Lingualeo)
 * [https://www.duolingo.com/petyachirich](Duolingo) 
