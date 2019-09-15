@@ -18,11 +18,17 @@ a:hover {
 }
 
 h2 {
+    display: inline-block;
     margin-bottom: 15px;
+    padding-left:10px;
+    border-bottom: 2px solid black;
+    background-color: rgba(212, 210, 129, 0.418);
 }
 
               /* -----HEADER----- */
 header {
+    margin-bottom: 15px;
+  background-color: rgb(238, 203, 203);
   padding: 10px;
   display: flex;
   justify-content: space-between;
@@ -33,6 +39,8 @@ header h2,
 nav ul li {
   display: inline-block;
   margin: 15px;
+  border: none;
+  background-color: rgb(238, 203, 203);
 }
 
 nav ul li {
@@ -43,7 +51,8 @@ nav ul li {
 section.title-and-contacts {
   display: flex;
   justify-content: space-between;
-  padding: 0 25px;
+  align-items: center;
+  padding: 5px 25px;
 }
 
 h1 {
@@ -57,8 +66,17 @@ main section.title img {
 }
 
 section.contacts {
-  padding-top: 5px;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: rgb(238, 203, 203);
+  padding: 25px;
   text-align: end;
+}
+
+section.contacts h2 {
+    border: none;
+  background-color: rgb(238, 203, 203);
+  border-bottom: 2px solid black;
 }
 
 section.contacts ul li {
@@ -67,7 +85,7 @@ section.contacts ul li {
 }
 
 section.summary {
-  padding: 15px 20px;
+  padding: 15px 15px;
 }
 
 section.summary p {
@@ -86,7 +104,11 @@ section.technologies {
 }
 
 section.technologies section {
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: rgb(240, 232, 221);
   margin: 15px 60px;
+  padding: 10px 10px;
 }
 
 section.technologies ul li {
@@ -135,6 +157,16 @@ section.english-level ul li{
 
 footer{
     padding: 5px 15px 5px 15px;
+}
+
+section.title-and-contacts,
+section.english-level,
+section.summary,
+section.skills,
+section.education,
+section.experience{
+    margin: 5px;
+    border-bottom: 1px solid #808080;
 }
 
 
