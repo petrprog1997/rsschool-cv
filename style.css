@@ -1,0 +1,142 @@
+*{
+  margin: 0;
+  padding:0;
+}
+
+body {
+  margin: 0 auto;
+  width: 70%;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+              /* -----HEADER----- */
+header {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h2,
+nav ul li {
+  display: inline-block;
+  margin: 15px;
+}
+
+nav ul li {
+  margin-top: 17px;
+}
+
+              /* -----MAIN----- */
+section.title-and-contacts {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 25px;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+main section.title img {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+section.contacts {
+  padding-top: 5px;
+  text-align: end;
+}
+
+section.contacts ul li {
+  margin: 5px 0;
+  list-style: none;
+}
+
+section.summary {
+  padding: 15px 20px;
+}
+
+section.summary p {
+  line-height: 25px;
+  padding-top: 10px;
+  text-indent: 25px;
+}
+
+section.skills {
+  padding:  5px 15px;
+}
+
+section.technologies {
+  display: flex;
+  justify-content: start;
+}
+
+section.technologies section {
+  margin: 15px 60px;
+}
+
+section.technologies ul li {
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  margin: 8px;
+}
+
+section.education {
+    padding: 15px;
+}
+
+section.education ul {
+    margin-left: 40px;
+}
+
+section.education ul li {
+    margin: 10px;
+}
+
+section.experience {
+    padding: 15px;
+}
+
+section.experience p {
+    line-height: 25px;
+    text-indent: 25px;
+}
+
+section.english-level {
+    padding: 15px;
+}
+
+section.english-level p {
+    margin-left: 25px;
+}
+
+section.english-level ul {
+    margin-left: 80px;
+}
+
+section.english-level ul li{
+    margin: 10px;
+}
+
+footer{
+    padding: 5px 15px 5px 15px;
+}
+
+
+
+
